@@ -1,0 +1,13 @@
+PODS:
+  - PureLayout (3.0.1)
+  - YYText (0.9.19)
+
+DEPENDENCIES:
+  - PureLayout (~> 3.0.0)
+  - YYText (~> 0.9.19)
+
+SPEC CHECKSUMS:
+  PureLayout: f35f5384c9c4e4479df041dbe33ad7577b71ddfb
+  YYText: b823b71b99b526c4a81029ecb59f3d8172ed5c9a
+
+COCOAPODS: 0.39.0
